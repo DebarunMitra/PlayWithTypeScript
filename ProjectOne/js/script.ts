@@ -40,3 +40,7 @@ console.log(strArray);
 console.log(numArray);
 console.log(boolArray);
 console.log(anyArray);
+
+console.log(myVoid);
+console.log(myNull);
+console.log(myUndefined);
