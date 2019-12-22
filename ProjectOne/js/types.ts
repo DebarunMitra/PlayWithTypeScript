@@ -18,7 +18,7 @@ let myNull: null = null;
 let myUndefined: undefined = undefined;
 
 
-myString="Hello TypeScript Dev";
+myString="Hello TypeScript";
 myNumber=9;
 myBoolean=true;
 myAny='1'+2;
@@ -27,8 +27,6 @@ strArray=['Type','Script'];
 numArray=[10,20];
 boolArray=[true,false];
 anyArray=['number',9,true];
-
-
 
 
 console.log(myString);
